@@ -27,7 +27,7 @@ export default function TopBar() {
     <AppBar position="static">
       <Toolbar style={{ display: "flex", justifyContent: "space-between", gap: 16 }}>
         <Typography variant="h6" component="div">
-          HuyAT141
+          YenTTH_AT321
         </Typography>
         <Typography variant="h6" component="div">
           {title}
